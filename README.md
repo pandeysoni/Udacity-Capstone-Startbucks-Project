@@ -73,6 +73,9 @@ Then you will want to run the above command:
 
 Finally, when you enter back into the notebook (use the jupyter icon again), you should be able to run the below cell without any errors.
 
+## New Files Added
+The last two pickel files (firstEvent.pkl, secondEvent.pkl) are two dataframes which took a long time to process during my analysis. They are saved in pickel files so that it only need to be run for 1 time.
+
 ## Acknowledgments
 I would like to thank Udacity for this amazing project, and starbucks for providing the data.
 
