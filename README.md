@@ -113,6 +113,10 @@ pip install requirements.txt
 ## Executing Program:
 Run Starbucks_Capstone_notebook.ipynb file in Jupyter Notebook.
 
+## Blog
+
+My Blog post wll summarize the steps which I have taken to achieve this. Here is my [blog post link](https://pandeysoni.medium.com/udacity-capstone-starbucks-project-analysis-f8d771a556a5)
+
 ## Authors
 
 * [Soni Pandey](https://github.com/pandeysoni)
